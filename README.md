@@ -9,3 +9,5 @@ Learning how to fork
 Learning how to fetch changes from upstream directory
 
 Learning how to pull from the upstream directory
+
+Learning how to push to the upstream directory
