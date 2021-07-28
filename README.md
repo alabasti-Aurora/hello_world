@@ -6,4 +6,4 @@ Learning how to use the basic functions of git-hub
 
 Learning how to fork
 
-Learning how to fork from command line
+Learning how to fetch changes from upstream directory
