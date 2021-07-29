@@ -1,1 +1,2 @@
-summary(iris)
+summary iris.R
+
