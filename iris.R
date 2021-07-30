@@ -5,3 +5,5 @@ plot(iris)
 #Un comentario
 
 #Otro comentario
+
+head(iris)
