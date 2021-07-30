@@ -13,3 +13,5 @@ Learning how to pull from the upstream directory
 Learning how to push to the upstream directory
 
 Learning how to collaborate from a fork
+
+Learning how to open a pull request
